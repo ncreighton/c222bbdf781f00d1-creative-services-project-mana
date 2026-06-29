@@ -1,0 +1,2 @@
+# c222bbdf781f00d1-creative-services-project-mana
+Every creative services professionals needs this — most just don't know it yet.  Compatible with all major WordPress themes and page builders. Regular security updates. Works with WordPress multisite.  ## What's Included  - Creative Services Project Management And Team Collaboration — fully configured and ready to use - Clean admin settings panel w
